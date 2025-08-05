@@ -15,9 +15,11 @@ const fetchPokemon = async () => {
         let nombresFiltrados = data.results.filter((pokemon) => pokemon.name !== "bulbasaur");
         console.log("Nombres filtrados sin Bulbasur:");
         console.log(nombresFiltrados);
+        
     } catch (error) {
         console.error("Error:", error);
     }
 }
 // Llamada a la función asíncrona
 fetchPokemon();
+
