@@ -27,3 +27,9 @@ El contenido está dividido en dos directorios principales:
 ### **Contenido de `proyectos/`**
 
 -   `Calculadora`: Este proyecto es una calculadora funcional que demuestra el uso de manipulación del DOM, manejo de eventos, funciones, estructuras de control (switch) y conversión de tipos (parseFloat) para realizar operaciones matemáticas básicas.
+
+-   `Lista e personas`: 
+
+-   `Reloj digital`:
+
+-   `Control de presupuesto`:
